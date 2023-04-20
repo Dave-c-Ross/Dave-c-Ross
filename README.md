@@ -32,7 +32,6 @@
       </td>
       <td align='center'>
         &nbsp;<br/>
-        <img width=52 valign=middle src="https://avatars.githubusercontent.com/u/131319508?s=200&v=4"/><br/>
         <a href="https://github.com/DCR-Misc-Projects">
           <img width=52 valign=middle src="https://avatars.githubusercontent.com/u/131319508?s=200&v=4"/><br/>
           DCR - Misc Projects
@@ -41,7 +40,6 @@
       </td>
       <td align='center'>
         &nbsp;<br/>
-        <img width=52 valign=middle src="https://avatars.githubusercontent.com/u/131320210?s=200&v=4"/><br/>
         <a href="https://github.com/DCR-Boilerplates-Templates">
           <img width=52 valign=middle src="https://avatars.githubusercontent.com/u/131320210?s=200&v=4"/><br/>
           DCR - Boilerplates Templates
